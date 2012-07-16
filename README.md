@@ -15,3 +15,8 @@ The grammar is in the structure of Verb (Modifier) Noun
 Step one of this project involves capturing the output of vim commands using ```vim -w/-W```.
 
 Step two of this project involves ...
+
+
+Links
+~~~~~
+ + http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/
